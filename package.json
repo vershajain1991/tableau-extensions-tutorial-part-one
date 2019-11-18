@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "chart.js": "^2.9.3",
     "jquery": "^3.4.1"
   },
   "name": "tableau-extensions-tutorial-part-one",
